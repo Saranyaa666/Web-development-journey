@@ -7,8 +7,8 @@ This section focuses on the next set of HTML concepts and practical implementati
 - Lists
 - Hyperlinks
 - Images
-- Tables (if covered)
-- Forms (if covered)
+- Tables 
+- Forms 
 
 ## Learning Outcome
 Developed a better understanding of HTML elements by implementing them through practical exercises.
